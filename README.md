@@ -1,2 +1,2 @@
-# aliyun-wordpresss
-aliyun-wordpresss
+# aliyun-wordpress
+aliyun-wordpress
